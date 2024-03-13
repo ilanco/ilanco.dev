@@ -1,7 +1,6 @@
 ---
 title: 'How to Create a Blog With Hugo'
 date: 2024-03-13T21:13:55+02:00
-draft: true
 ---
 
 ## Prerequisites
