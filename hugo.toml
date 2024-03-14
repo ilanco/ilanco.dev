@@ -95,5 +95,5 @@ name = "mastodon"
 url = "https://mastodon.social/@ilanco"
 
 [[params.socialIcons]]
-name = "Rss"
+name = "RSS"
 url = "index.xml"
