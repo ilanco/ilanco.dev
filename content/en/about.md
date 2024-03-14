@@ -1,7 +1,6 @@
 ---
-title: About Me
-description: 'About me'
-author: 'Ilan Cohen'
+title: "About Me"
+description: "About me"
 ---
 
 Hi, my name is Ilan and I help people solve problems. At the moment, I'm doing this as a Senior Technical Services Engineer at MongoDB.
