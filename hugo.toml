@@ -65,6 +65,7 @@ ignoreErrors = ["additional-script-loading-error"]
   # The file `custom.js` is loaded on each page (before body tag ends).
   dateFormat = ":date_long" # date format used to show dates on various pages. If nothing is specified, then "2 Jan 2006" format is used.
   # See https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for available date formats.
+  showReadingTime = true
   rssFeedDescription = "summary" # available options: 1) summary 2) full
   # summary - includes a short summary of the blog post in the RSS feed. Generated using Hugo .Summary .
   # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
