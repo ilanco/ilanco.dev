@@ -1,6 +1,7 @@
 baseURL = 'https://ilanco.dev/'
 languageCode = 'en-us'
 title = 'Ilan Cohen'
+#theme = "hugo-blog-awesome"
 
 # This defines how dates are formatted
 defaultContentLanguage = "en-us"
@@ -12,7 +13,7 @@ ignoreErrors = ["additional-script-loading-error"]
 
 [module]
   [[module.imports]]
-    path = "github.com/hugo-sid/hugo-blog-awesome"
+    path = "github.com/ilanco/hugo-blog-awesome"
 
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
