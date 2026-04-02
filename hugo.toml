@@ -11,6 +11,10 @@ enableEmoji = true
 # ignore error of loading additional scripts.
 ignoreErrors = ["additional-script-loading-error"]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [module]
   [[module.imports]]
     path = "github.com/ilanco/hugo-blog-awesome"
