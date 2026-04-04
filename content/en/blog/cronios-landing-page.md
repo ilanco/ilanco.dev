@@ -9,13 +9,6 @@ params:
   author: Ilan Cohen
 ---
 
-# Cronios Market Validation
-
-Usually, I start coding right away and don't think about whether what I'm building has a need. This time, I followed the advice we've all read so many times before and ignored: validate your idea before writing a single line of code.
-
-So, I did. For [Cronios](https://cronios.io/), a Cron Job Monitoring Saas, I created a landing page.
-
-
 # Cronios Landing Page: Validating Before Building
 
 Usually, I start coding right away and don't think about whether what I'm building has a need. This time, I followed the advice we've all read so many times before and ignored: validate your idea before writing a single line of code.
