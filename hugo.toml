@@ -1,5 +1,6 @@
 baseURL = 'https://ilanco.dev/'
-languageCode = 'en-us'
+# languageCode = 'en-us'
+locale = 'en-us'
 title = 'Ilan Cohen'
 #theme = "hugo-blog-awesome"
 
@@ -31,8 +32,8 @@ ignoreErrors = ["additional-script-loading-error"]
 		ordered = false # generates <ul> instead of <ol>
 
 [Languages.en-us]
-  languageName = "English"
-  languageCode = "en-us"
+  label = "English"
+  locale = "en-us"
   contentDir = "content/en"
   weight = 1
 
