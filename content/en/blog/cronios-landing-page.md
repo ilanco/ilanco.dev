@@ -1,6 +1,6 @@
 ---
 title: 'Cronios Landing Page'
-date: 2026-04-03T22:09:23+03:00
+date: 2025-04-03T22:09:23+03:00
 tags:
   - "Cronios"
   - "saas"

@@ -1,6 +1,6 @@
 ---
 title: 'Starting Containers in a Pod and with a Network using Podman Quadlets'
-date: 2026-05-13T08:03:44+03:00
+date: 2025-05-13T08:03:44+03:00
 tags:
   - "podman"
   - "quadlet"
